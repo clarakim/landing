@@ -32,6 +32,10 @@ h2,p {
   font-family: 'caviar_dreamsregular', sans-serif;
 }
 
+h1 {
+  font-size: 
+}
+
 h2{
   font-size: 16pt;
   color:grey;
@@ -97,6 +101,10 @@ footer p {
   width: 200px;
 }
 
+
+#iphonelogo {
+  width: 60px;
+}
 
 .yoobee-logo{
   float: right;
