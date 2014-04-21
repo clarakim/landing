@@ -153,13 +153,13 @@ div.texts {
   clear:both;
   display: table;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 20%;
   text-align:right; 
  
 }
 
 .jumbotron {
-  padding: 100px;
+  padding: 10%;
   background-color:white;
   
 }
